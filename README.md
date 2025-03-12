@@ -23,10 +23,6 @@ A **Streamlit-based Personal Library Manager** 🎨🖥️ that helps you **orga
   - [📋 Displaying All Books](#-displaying-all-books)  
   - [📊 Viewing Statistics](#-viewing-statistics)  
   - [⏳ Exit](#-exit)  
-- [💾 File Handling (Optional)](#-file-handling-optional)  
-- [🛠 Contributing](#-contributing)  
-- [📜 License](#-license)  
-- [🌟 Support & Feedback](#-support--feedback)  
 
 ---
 
