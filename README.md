@@ -1,6 +1,6 @@
 # 📚 Personal Library Manager  
 
-A **Streamlit-based Personal Library Manager** 🎨🖥️ that helps you **organize, manage, and track** your book collection effortlessly! Whether you're a casual reader or a book enthusiast, this **interactive web application** makes it easy to **add, remove, search, and track** books with an intuitive interface. 🎯📖  
+A **COMMAND Line interface (CLI) + Streamlit-based Personal Library Manager** 🎨🖥️ that helps you **organize, manage, and track** your book collection effortlessly! Whether you're a casual reader or a book enthusiast, this **interactive web application** makes it easy to **add, remove, search, and track** books with an intuitive interface. 🎯📖  
 
 🚀 **Key Features:**  
 ✔️ **Add books** to your personal library 📚  
